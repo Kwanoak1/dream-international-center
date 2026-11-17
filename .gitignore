@@ -1,0 +1,4 @@
+activity-data/
+admin-password.sha256
+.env
+.env.*
